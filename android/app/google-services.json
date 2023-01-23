@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "618027857331",
+    "project_id": "le-repetiteur",
+    "storage_bucket": "le-repetiteur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618027857331:android:f96cffad9d2473926e47c6",
+        "android_client_info": {
+          "package_name": "ne.futurInnov.e_repetiteur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618027857331-bk1s5b7vvb2v6rjopke7n4anql30es0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7SdXUMPWYF9WnliDR1oHKsplNYsjoIxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618027857331-bk1s5b7vvb2v6rjopke7n4anql30es0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618027857331:android:064dee29a068ec566e47c6",
+        "android_client_info": {
+          "package_name": "ne.futurInnov.lerepetiteur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618027857331-bk1s5b7vvb2v6rjopke7n4anql30es0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7SdXUMPWYF9WnliDR1oHKsplNYsjoIxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618027857331-bk1s5b7vvb2v6rjopke7n4anql30es0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
